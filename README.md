@@ -19,5 +19,3 @@ This project is a personal finance tracking system built to strengthen skills in
 - SQLite
 - JDBC
 - Git & GitHub
-
-## Project Structure
